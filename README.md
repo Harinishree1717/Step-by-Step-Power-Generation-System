@@ -39,7 +39,7 @@ This project demonstrates a smart and sustainable method of energy harvesting by
 
 ---
 
-## 🖼️ Output & Circuit Images
+## 🖼️OUTPUT & CIRCUIT DIAGRAM
 
 ### ✅ Working Output
 ![working_output jpg](https://github.com/user-attachments/assets/6600f102-7d4a-41af-a382-df4ac72048df)
@@ -65,12 +65,9 @@ The Arduino sketch is available in [`main_code.ino`](main_code.ino).
 
 ## 🔍 Sample LCD Output
 
-Welcome HARINISHREE
-Voltage: 2.45V
+Welcome HARINISHREE   
 
-yaml
-Copy
-Edit
+Voltage: 2.45V
 
 ---
 
@@ -99,7 +96,7 @@ Edit
 Final Year CSE Student  
 [GitHub Profile](https://github.com/HARINISHREE1717)
 
----
+
 
 ## 🌐 Tags
 
