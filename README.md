@@ -95,7 +95,7 @@ Edit
 
 ## 🧑‍💻 Author
 
-**HARINISHREE**  
+**HARINISHREE S**  
 Final Year CSE Student  
 [GitHub Profile](https://github.com/HARINISHREE1717)
 
