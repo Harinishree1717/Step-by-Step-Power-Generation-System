@@ -1,5 +1,5 @@
 # Step-by-Step-Power-Generation-System
- Arduino-based footstep power generation system using piezo sensors and LCD display.
+ Arduino-based Footstep Power Generation System using Piezo-Electric Sensors and LCD display.
 # ⚡ Footstep Power Generation System using Piezo Sensors and LCD
 
 This project demonstrates a smart and sustainable method of energy harvesting by converting mechanical pressure from footsteps into electrical energy using piezoelectric sensors. The voltage generated is displayed on an LCD screen in real-time.
