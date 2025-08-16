@@ -64,12 +64,51 @@ This project demonstrates a smart and sustainable method of energy harvesting by
 - LED control based on pressure detection
 
 ---
+## 📟 Sample LCD Output  
 
-## 🔍 Sample LCD Output
+### 🔹 Startup Screens  
 
-Welcome HARINISHREE   
 
-Voltage: 2.45V
+**Welcome to Team 18**
+
+**STEP BY STEP POWER GENERATION SYSTEM**
+
+[**Team Members**:
+Harinishree S
+Kaviyashree K
+Haritha P]
+
+**Guided by:
+Mr.S.Senthilnathan M.E.,**
+
+
+---
+
+### 🔹 Monitoring Mode 
+
+
+Monitoring. 
+
+Monitoring.. 
+
+Monitoring...
+
+
+---
+
+### 🔹 When Pressure is HIGH  
+
+⚡ PRESSURE: HIGH
+Voltage: Above Threshold
+👉 The indication LED is Glowing...
+
+---
+
+### 🔹 When Pressure is LOW  
+
+🔻 PRESSURE: LOW
+Voltage: Below Threshold
+👉 The indication LED is OFF...
 
 ---
 
