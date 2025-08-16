@@ -54,7 +54,7 @@ This project demonstrates a smart and sustainable method of energy harvesting by
 ## 💻 Arduino Code
 
 👉 The full Arduino sketch is available here:  
-[**Footstep_Power_Generation.ino**](./code/Footstep_Power_Generation.ino)
+[**Footstep_Power_Generation.ino**](./code/Footstep_Power_Generation.ino.txt)    
 
 
 ### Key Features:
